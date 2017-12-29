@@ -123,7 +123,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Be prepared to do your best online
   </div>
   <div class="col-3 mob-hide">
-    <a class="button-inverted absolute-right" href="http://scoutdigitaltraining.eventbrite.com" onClick="ga('send', 'event', { eventCategory: 'JoinNow', eventAction: 'Click', eventLabel: 'Header', eventValue: });" target="_blank"> Join Now </a>
+    <a class="button-inverted absolute-right" href="http://scoutdigitaltraining.eventbrite.com" target="_blank"> Join Now </a>
   </div>
 </section>
 
@@ -198,7 +198,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a href="https://www.facebook.com/scoutsocial" target="_blank"> <i class="fa fa-facebook"></i>Facebook </a>
       <a href="https://www.instagram.com/scoutsocial/" target="_blank"> <i class="fa fa-instagram"> </i>Instagram</a>
       <a href="https://twitter.com/scoutsocial" target="_blank"> <i class="fa fa-twitter"></i>Twitter</a>
-      <a href="https://www.linkedin.com/company/scout-digital-marketing" target="_blank"> <i class="fa fa-linkedin"></i>LinkedIn</a>
+      <a href="https://www.linkedin.com/company/scout-digital-training" target="_blank"> <i class="fa fa-linkedin"></i>LinkedIn</a>
     </nav>
   </div>
 </section>
@@ -226,6 +226,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div> <!-- end of page, nothing except body scipts should be below this -->
 
 <!-- These are the scripts that will be placed just before the closing body tag on every page. -->
+
+<!-- Active Campaign tracking code -->
+
+<script type="text/javascript">
+	var trackcmp_email = '';
+	var trackcmp = document.createElement("script");
+	trackcmp.async = true;
+	trackcmp.type = 'text/javascript';
+	trackcmp.src = '//trackcmp.net/visit?actid=798866031&e='+encodeURIComponent(trackcmp_email)+'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(window.location.href);
+	var trackcmp_s = document.getElementsByTagName("script");
+	if (trackcmp_s.length) {
+		trackcmp_s[0].parentNode.appendChild(trackcmp);
+	} else {
+		var trackcmp_h = document.getElementsByTagName("head");
+		trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
+	}
+</script>
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9L9NKB"
