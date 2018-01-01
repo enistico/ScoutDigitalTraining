@@ -96,6 +96,11 @@ p  { font-size: 1.0rem; line-height: 1.5;}
 blockquote  { font-size: 1.0rem; line-height: 1.5;}
 li  { font-size: 1.0rem; }
 
+/* to hide overflow and stop site "wiggling" on mobile */
+
+body, html {
+overflow-x: hidden;
+}
 
 /* Padding & Margin */
 
