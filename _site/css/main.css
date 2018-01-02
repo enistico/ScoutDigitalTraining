@@ -48,6 +48,8 @@ img {
 
 .no-padding { padding: 0; }
 
+.ribbon-margin {margin-top: 10vh;}
+
 .mob-show { display: none;}
 
 .full-width { /* for image grids */
