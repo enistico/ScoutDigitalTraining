@@ -260,7 +260,7 @@ footer nav .fa,
 
 #primary_nav_wrap ul li:hover > ul
 {
-	display:block
+	display:block;
 }
 
 /* ----- MODULAR ELEMENTS --------------------------- */
