@@ -411,6 +411,10 @@ form [class*=col-] {
   background-image: url('/images/header-further-google-analytics-events-point.jpg'); /* I may update this for launch */
 }
 
+#email-banner {
+  background-image: url('/images/email-marketing.jpg');
+}
+
 /*------- Media Queries ------------------------*/
 @media(max-width:800px) {
 
