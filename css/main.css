@@ -100,8 +100,9 @@ li  { font-size: 1.0rem; }
 
 /* to hide overflow and stop site "wiggling" on mobile */
 
-body, html {
-overflow-x: hidden;
+header, footer, section {
+overflow: hidden;
+max-width: 100%;
 }
 
 /* Padding & Margin */
