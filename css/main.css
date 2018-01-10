@@ -101,7 +101,7 @@ li  { font-size: 1.0rem; }
 /* to hide overflow and stop site "wiggling" on mobile */
 
 header, footer, section {
-overflow: hidden;
+/* overflow: hidden; */
 max-width: 100%;
 }
 
@@ -410,10 +410,6 @@ form [class*=col-] {
 
 #intro-banner {
   background-image: url('/images/header-further-google-analytics-events-point.jpg'); /* I may update this for launch */
-}
-
-#email-banner {
-  background-image: url('/images/email-marketing.jpg');
 }
 
 /*------- Media Queries ------------------------*/
