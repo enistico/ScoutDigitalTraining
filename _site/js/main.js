@@ -70,9 +70,9 @@ $('#calendar').fullCalendar({
                     url    : '/social-media-strategy',
                 },
                 {
-                    title  : 'Analysing and Optimising Google Adwords',
+                    title  : 'Google Adwords Optimisation',
                     start  : '2018-03-08',
-                    url    : '/google-adwords-analysis',
+                    url    : '/google-adwords-optimisation',
                 },
                 {
                     title  : 'Social Media Content Strategy',
