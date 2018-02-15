@@ -48,6 +48,13 @@ img {
 
 .no-padding { padding: 0; }
 
+.no-bottom-padding {
+  padding-top: 5vh;
+  padding-right: 5%;
+  padding-bottom: 0;
+  padding-left: 5%;
+}
+
 .ribbon-margin {margin-top: 10vh;}
 
 .mob-show { display: none;}
