@@ -110,11 +110,6 @@ $('#calendar').fullCalendar({
                     url    : '/email-marketing-intro',
                 },
                 {
-                    title  : 'Conversion Rate Optimisation',
-                    start  : '2018-05-03',
-                    url    : '/conversion-rate-optimisation',
-                },
-                {
                     title  : 'Taking Your Email Marketing Further',
                     start  : '2018-05-10',
                     url    : '/email-marketing-further',
@@ -138,11 +133,6 @@ $('#calendar').fullCalendar({
                     title  : 'Further SEO Techniques',
                     start  : '2018-06-07',
                     url    : '/seo-further',
-                },
-                {
-                    title  : 'Leveraging Remarketing With Google Tools',
-                    start  : '2018-06-14',
-                    url    : '/remarketing',
                 }
             ],
             color: 'orange',     // an option!
