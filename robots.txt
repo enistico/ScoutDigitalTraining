@@ -12,3 +12,5 @@ Disallow: /type-styles
 Disallow: /type-styles.html
 Disallow: /2018
 Disallow: /2018.html
+Disallow: /contact-form
+Disallow: /contact-form.html
