@@ -125,11 +125,6 @@ $('#calendar').fullCalendar({
                     url    : '/seo-intro',
                 },
                 {
-                    title  : 'Taking Google Tag Manager Further',
-                    start  : '2018-05-31',
-                    url    : '/google-tag-manager-further',
-                },
-                {
                     title  : 'Further SEO Techniques',
                     start  : '2018-06-07',
                     url    : '/seo-further',
