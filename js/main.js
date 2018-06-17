@@ -128,7 +128,173 @@ $('#calendar').fullCalendar({
                     title  : 'Further SEO Techniques',
                     start  : '2018-06-07',
                     url    : '/seo-further',
+                },
+                {
+                    title  : 'Social Media Consultations',
+                    start  : '2018-07-03',
+                    url    : '/social-media-consultations',
+                },
+                {
+                    title  : 'Social Media Consultations',
+                    start  : '2018-07-05',
+                    url    : '/social-media-consultations',
+                },
+                {
+                    title  : 'Social Media for Business',
+                    start  : '2018-07-10',
+                    url    : '/social-media-intro',
+                },
+                {
+                    title  : 'Webinar: Getting Your Sh*t Organised',
+                    start  : '2018-07-12',
+                    url    : '/webinar-social-media-organisation',
+                },
+                {
+                    title  : 'Introduction to Google Adwords',
+                    start  : '2018-07-19',
+                    url    : '/google-adwords-intro',
+                },
+                {
+                    title  : 'Mastering Facebook and Instagram Ads (for individual accounts)',
+                    start  : '2018-07-26',
+                    url    : '/facebook-instagram-advertising-individual',
+                },
+                {
+                    title  : 'Mastering Twitter and LinkedIn Advertising',
+                    start  : '2018-07-26',
+                    url    : '/twitter-linkedin-advertising',
+                },
+                {
+                    title  : 'Facebook Pages Masterclass',
+                    start  : '2018-07-31',
+                    url    : '/facebook-masterclass',
+                },
+                {
+                    title  : 'Mastering Facebook Business Manager',
+                    start  : '2018-07-31',
+                    url    : '/facebook-business-manager',
+                },
+                {
+                    title  : 'Google Adwords Optimisation',
+                    start  : '2018-08-02',
+                    url    : '/google-adwords-optimisation',
+                },
+                {
+                    title  : 'Instagram Masterclass',
+                    start  : '2018-08-07',
+                    url    : '/instagram-masterclass',
+                },
+                {
+                    title  : 'Twitter Masterclass',
+                    start  : '2018-08-09',
+                    url    : '/twitter-masterclass',
+                },
+                {
+                    title  : 'LinkedIn Masterclass',
+                    start  : '2018-08-09',
+                    url    : '/linkedin-masterclass',
+                },
+                {
+                    title  : 'Developing a Social Media Strategy',
+                    start  : '2018-08-21',
+                    url    : '/social-media-strategy',
+                },
+                {
+                    title  : 'Introduction to SEO Best Practices',
+                    start  : '2018-08-23',
+                    url    : '/seo-intro',
+                },
+                {
+                    title  : 'Creating Engaging Social Media Content',
+                    start  : '2018-08-28',
+                    url    : '/social-media-content-strategy',
+                },
+                {
+                    title  : 'Further SEO Techniques',
+                    start  : '2018-08-30',
+                    url    : '/seo-further',
+                },
+                {
+                    title  : 'Mastering Facebook and Instagram Ads (for multiple accounts)',
+                    start  : '2018-09-11',
+                    url    : '/facebook-instagram-advertising-multiple',
+                },
+                {
+                    title  : 'Introduction to Google Analytics',
+                    start  : '2018-09-13',
+                    url    : '/google-analytics-intro',
+                },
+                {
+                    title  : 'Effective AND Efficient Social Media Reporting',
+                    start  : '2018-09-18',
+                    url    : '/social-media-analytics',
+                },
+                {
+                    title  : 'Taking Google Analytics Further',
+                    start  : '2018-09-20',
+                    url    : '/google-analytics-further',
+                },
+                {
+                    title  : 'Introduction to Email Marketing',
+                    start  : '2018-09-27',
+                    url    : '/email-marketing-intro',
+                },
+                {
+                    title  : 'Taking Your Email Marketing Further',
+                    start  : '2018-10-04',
+                    url    : '/email-marketing-further',
+                },
+                {
+                    title  : 'Facebook Pages Masterclass',
+                    start  : '2018-10-09',
+                    url    : '/facebook-masterclass',
+                },
+                {
+                    title  : 'Ecommerce Google Analytics',
+                    start  : '2018-10-11',
+                    url    : '/google-analytics-ecommerce',
+                },
+                {
+                    title  : 'Instagram Masterclass',
+                    start  : '2018-10-16',
+                    url    : '/instagram-masterclass',
+                },
+                {
+                    title  : 'Introduction to SEO Best Practices',
+                    start  : '2018-10-18',
+                    url    : '/seo-intro',
+                },
+                {
+                    title  : 'Introduction to Google Tag Manager',
+                    start  : '2018-10-25',
+                    url    : '/google-tag-manager-intro',
+                },
+                {
+                    title  : 'Mastering Facebook and Instagram Ads (for individual accounts)',
+                    start  : '2018-10-30',
+                    url    : '/facebook-instagram-advertising-individual',
+                },
+                {
+                    title  : 'Further SEO Techniques',
+                    start  : '2018-11-01',
+                    url    : '/seo-further',
+                },
+                {
+                    title  : 'Taking Google Tag Manager Further',
+                    start  : '2018-11-08',
+                    url    : '/google-tag-manager-further',
+                },
+                {
+                    title  : 'Developing a Social Media Strategy',
+                    start  : '2018-11-13',
+                    url    : '/social-media-strategy',
+                },
+                {
+                    title  : 'Creating Engaging Social Media Content',
+                    start  : '2018-11-20',
+                    url    : '/social-media-content-strategy',
                 }
+
             ],
             color: 'orange',     // an option!
             textColor: 'black' // an option!
