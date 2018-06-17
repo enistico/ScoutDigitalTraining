@@ -1,3 +1,6 @@
-/seo-basics.html  /seo-intro
+/seo-basics.html /seo-intro
 /seo-basics /seo-intro
-/seo-basics/  /seo-intro
+/seo-basics/ /seo-intro
+/social-media-advertising.html /social-media-training
+/social-media-advertising /social-media-training
+/social-media-advertising/ /social-media-training
