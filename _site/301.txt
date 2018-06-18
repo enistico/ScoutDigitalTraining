@@ -2,5 +2,7 @@
 /seo-basics /seo-intro
 /seo-basics/ /seo-intro
 /social-media-advertising.html /social-media-training
-/social-media-advertising /social-media-training
 /social-media-advertising/ /social-media-training
+/social-media-advertising /social-media-training
+/remarketing /all-courses
+/conversion-rate-optimisation /all-courses
