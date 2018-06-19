@@ -206,7 +206,7 @@ $('#calendar').fullCalendar({
                 },
                 {
                     title  : 'Creating Engaging Social Media Content',
-                    start  : '2018-08-28',
+                    start  : '2018-08-27',
                     url    : '/social-media-content-strategy',
                 },
                 {
@@ -226,7 +226,7 @@ $('#calendar').fullCalendar({
                 },
                 {
                     title  : 'Effective AND Efficient Social Media Reporting',
-                    start  : '2018-09-18',
+                    start  : '2018-09-17',
                     url    : '/social-media-analytics',
                 },
                 {
