@@ -6,3 +6,8 @@
 /social-media-advertising /social-media-training
 /remarketing /all-courses
 /conversion-rate-optimisation /all-courses
+/google-tag-manager-training /all-courses
+/google-analytics-ecommerce /all-courses
+/google-tag-manager-intro /all-courses
+/google-tag-manager-further /all-courses
+/training-courses-petra /all-courses

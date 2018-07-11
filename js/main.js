@@ -250,11 +250,6 @@ $('#calendar').fullCalendar({
                     url    : '/facebook-masterclass',
                 },
                 {
-                    title  : 'Ecommerce Google Analytics',
-                    start  : '2018-10-11',
-                    url    : '/google-analytics-ecommerce',
-                },
-                {
                     title  : 'Instagram Masterclass',
                     start  : '2018-10-16',
                     url    : '/instagram-masterclass',
@@ -265,11 +260,6 @@ $('#calendar').fullCalendar({
                     url    : '/seo-intro',
                 },
                 {
-                    title  : 'Introduction to Google Tag Manager',
-                    start  : '2018-10-25',
-                    url    : '/google-tag-manager-intro',
-                },
-                {
                     title  : 'Mastering Facebook and Instagram Ads (for individual accounts)',
                     start  : '2018-10-30',
                     url    : '/facebook-instagram-advertising-individual',
@@ -278,11 +268,6 @@ $('#calendar').fullCalendar({
                     title  : 'Further SEO Techniques',
                     start  : '2018-11-01',
                     url    : '/seo-further',
-                },
-                {
-                    title  : 'Taking Google Tag Manager Further',
-                    start  : '2018-11-08',
-                    url    : '/google-tag-manager-further',
                 },
                 {
                     title  : 'Developing a Social Media Strategy',
