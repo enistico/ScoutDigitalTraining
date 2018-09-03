@@ -230,6 +230,11 @@ $('#calendar').fullCalendar({
                     url    : '/social-media-analytics',
                 },
                 {
+                    title  : 'Webinar: Removing internal traffic from Google Analytics',
+                    start  : '2018-09-19',
+                    url    : '/webinar-google-analytics-exclude-internal-traffic',
+                },
+                {
                     title  : 'Taking Google Analytics Further',
                     start  : '2018-09-20',
                     url    : '/google-analytics-further',
