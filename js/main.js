@@ -215,19 +215,9 @@ $('#calendar').fullCalendar({
                     url    : '/seo-further',
                 },
                 {
-                    title  : 'Mastering Facebook and Instagram Ads (for multiple accounts)',
-                    start  : '2018-09-11',
-                    url    : '/facebook-instagram-advertising-multiple',
-                },
-                {
                     title  : 'Introduction to Google Analytics',
                     start  : '2018-09-13',
                     url    : '/google-analytics-intro',
-                },
-                {
-                    title  : 'Effective AND Efficient Social Media Reporting',
-                    start  : '2018-09-17',
-                    url    : '/social-media-analytics',
                 },
                 {
                     title  : 'Webinar: Removing internal traffic from Google Analytics',
@@ -241,23 +231,13 @@ $('#calendar').fullCalendar({
                 },
                 {
                     title  : 'Introduction to Email Marketing',
-                    start  : '2018-09-27',
+                    start  : '2018-10-04',
                     url    : '/email-marketing-intro',
                 },
                 {
-                    title  : 'Taking Your Email Marketing Further',
-                    start  : '2018-10-04',
-                    url    : '/email-marketing-further',
-                },
-                {
-                    title  : 'Facebook Pages Masterclass',
-                    start  : '2018-10-09',
-                    url    : '/facebook-masterclass',
-                },
-                {
-                    title  : 'Instagram Masterclass',
+                    title  : 'Effective AND Efficient Social Media Reporting',
                     start  : '2018-10-16',
-                    url    : '/instagram-masterclass',
+                    url    : '/social-media-analytics',
                 },
                 {
                     title  : 'Introduction to SEO Best Practices',
@@ -265,14 +245,14 @@ $('#calendar').fullCalendar({
                     url    : '/seo-intro',
                 },
                 {
-                    title  : 'Mastering Facebook and Instagram Ads (for individual accounts)',
+                    title  : 'Mastering Facebook and Instagram Ads',
                     start  : '2018-10-30',
-                    url    : '/facebook-instagram-advertising-individual',
+                    url    : '/facebook-instagram-advertising',
                 },
                 {
-                    title  : 'Further SEO Techniques',
+                    title  : 'Introduction to Google Ads',
                     start  : '2018-11-01',
-                    url    : '/seo-further',
+                    url    : '/google-adwords-intro',
                 },
                 {
                     title  : 'Developing a Social Media Strategy',
@@ -280,9 +260,9 @@ $('#calendar').fullCalendar({
                     url    : '/social-media-strategy',
                 },
                 {
-                    title  : 'Creating Engaging Social Media Content',
-                    start  : '2018-11-20',
-                    url    : '/social-media-content-strategy',
+                    title  : 'Google Ads Optimisation',
+                    start  : '2018-11-15',
+                    url    : '/google-adwords-optimisation',
                 }
 
             ],
